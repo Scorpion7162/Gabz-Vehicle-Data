@@ -1,7 +1,7 @@
 -- Generated QBX vehicles table entries
     gb811s2 = {
         name = '811 S2',
-        brand = 'Pfister', 
+        brand = 'Pfister',
         model = 'gb811s2',
         price = 5000,
         category = 'super',
@@ -10,7 +10,7 @@
     },
     gbbanshees = {
         name = 'Banshee S',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbbanshees',
         price = 5000,
         category = 'super',
@@ -19,7 +19,7 @@
     },
     gbemerussb1 = {
         name = 'Emerus SB1',
-        brand = 'Progen', 
+        brand = 'Progen',
         model = 'gbemerussb1',
         price = 5000,
         category = 'super',
@@ -28,7 +28,7 @@
     },
     gbprospero = {
         name = 'Prospero',
-        brand = 'Pegassi', 
+        brand = 'Pegassi',
         model = 'gbprospero',
         price = 5000,
         category = 'super',
@@ -37,7 +37,7 @@
     },
     gbtr3s = {
         name = 'TR3-S',
-        brand = 'Progen', 
+        brand = 'Progen',
         model = 'gbtr3s',
         price = 5000,
         category = 'super',
@@ -46,7 +46,7 @@
     },
     gbadmiral = {
         name = 'Admiral',
-        brand = 'Dundreary', 
+        brand = 'Dundreary',
         model = 'gbadmiral',
         price = 5000,
         category = 'sedans',
@@ -55,7 +55,7 @@
     },
     gbargento7f = {
         name = 'Argento 7F',
-        brand = 'Obey', 
+        brand = 'Obey',
         model = 'gbargento7f',
         price = 5000,
         category = 'sedans',
@@ -64,7 +64,7 @@
     },
     gbharmann = {
         name = 'Harmann',
-        brand = 'Benefactor', 
+        brand = 'Benefactor',
         model = 'gbharmann',
         price = 5000,
         category = 'sedans',
@@ -73,7 +73,7 @@
     },
     gbimpaler = {
         name = 'Imapaler',
-        brand = 'Declasse', 
+        brand = 'Declasse',
         model = 'gbimpaler',
         price = 5000,
         category = 'sedans',
@@ -82,7 +82,7 @@
     },
     gbstanierle = {
         name = 'Stainer LE',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbstanierle',
         price = 5000,
         category = 'sedans',
@@ -91,7 +91,7 @@
     },
     gbcomets2r = {
         name = 'Comet S2R',
-        brand = 'Pfister', 
+        brand = 'Pfister',
         model = 'gbcomets2r',
         price = 5000,
         category = 'sports',
@@ -100,7 +100,7 @@
     },
     gbcomets2rc = {
         name = 'Comet S2R C',
-        brand = 'Pfister', 
+        brand = 'Pfister',
         model = 'gbcomets2rc',
         price = 5000,
         category = 'sports',
@@ -109,7 +109,7 @@
     },
     gbeon = {
         name = 'Eon',
-        brand = 'Coil', 
+        brand = 'Coil',
         model = 'gbeon',
         price = 5000,
         category = 'sports',
@@ -118,7 +118,7 @@
     },
     gbmilano = {
         name = 'Milano',
-        brand = 'Grotti', 
+        brand = 'Grotti',
         model = 'gbmilano',
         price = 5000,
         category = 'sports',
@@ -127,7 +127,7 @@
     },
     gbmogulrs = {
         name = 'Mogul RS',
-        brand = 'Karin', 
+        brand = 'Karin',
         model = 'gbmogulrs',
         price = 5000,
         category = 'sports',
@@ -136,7 +136,7 @@
     },
     gbneonct = {
         name = 'Neon CT',
-        brand = 'Pfister', 
+        brand = 'Pfister',
         model = 'gbneonct',
         price = 5000,
         category = 'sports',
@@ -145,7 +145,7 @@
     },
     gbnexusrr = {
         name = 'Nesus RR',
-        brand = 'Dinka', 
+        brand = 'Dinka',
         model = 'gbnexusrr',
         price = 5000,
         category = 'sports',
@@ -154,7 +154,7 @@
     },
     gbronin = {
         name = 'Ronin',
-        brand = 'Emperor', 
+        brand = 'Emperor',
         model = 'gbronin',
         price = 5000,
         category = 'sports',
@@ -163,7 +163,7 @@
     },
     gbschlagenr = {
         name = 'Schlagen-R',
-        brand = 'Benefactor', 
+        brand = 'Benefactor',
         model = 'gbschlagenr',
         price = 5000,
         category = 'sports',
@@ -172,7 +172,7 @@
     },
     gbschlagensp = {
         name = 'Schlagen-SP',
-        brand = 'Benefactor', 
+        brand = 'Benefactor',
         model = 'gbschlagensp',
         price = 5000,
         category = 'sports',
@@ -181,7 +181,7 @@
     },
     gbschrauber = {
         name = 'Schrauber',
-        brand = 'Benefactor', 
+        brand = 'Benefactor',
         model = 'gbschrauber',
         price = 5000,
         category = 'sports',
@@ -190,7 +190,7 @@
     },
     gbschwartzers = {
         name = 'Schwartzer S',
-        brand = 'Benefactor', 
+        brand = 'Benefactor',
         model = 'gbschwartzers',
         price = 5000,
         category = 'sports',
@@ -199,7 +199,7 @@
     },
     gbsentinelgts = {
         name = 'Sentinel GTS',
-        brand = 'Ubermacht', 
+        brand = 'Ubermacht',
         model = 'gbsentinelgts',
         price = 5000,
         category = 'sports',
@@ -208,7 +208,7 @@
     },
     gbsolace = {
         name = 'Solace',
-        brand = 'Dewbauchee', 
+        brand = 'Dewbauchee',
         model = 'gbsolace',
         price = 5000,
         category = 'sports',
@@ -217,7 +217,7 @@
     },
     gbsolacev = {
         name = 'Solace Vitesse',
-        brand = 'Dewbauchee', 
+        brand = 'Dewbauchee',
         model = 'gbsolacev',
         price = 5000,
         category = 'sports',
@@ -226,7 +226,7 @@
     },
     gbsultanrsx = {
         name = 'Sultan RSX',
-        brand = 'Karin', 
+        brand = 'Karin',
         model = 'gbsultanrsx',
         price = 5000,
         category = 'sports',
@@ -235,7 +235,7 @@
     },
     gbtenfr = {
         name = 'Tenf R',
-        brand = 'Obey', 
+        brand = 'Obey',
         model = 'gbtenfr',
         price = 5000,
         category = 'sports',
@@ -244,7 +244,7 @@
     },
     gbvivantgrb = {
         name = 'Vivant GRB',
-        brand = 'Bordeaux', 
+        brand = 'Bordeaux',
         model = 'gbvivantgrb',
         price = 5000,
         category = 'sports',
@@ -253,7 +253,7 @@
     },
     gbcometcl = {
         name = 'Comet Classic',
-        brand = 'Pfister', 
+        brand = 'Pfister',
         model = 'gbcometcl',
         price = 5000,
         category = 'sportsclassic',
@@ -262,7 +262,7 @@
     },
     gbcomets1t = {
         name = 'Comet S1 Turbo',
-        brand = 'Pfister', 
+        brand = 'Pfister',
         model = 'gbcomets1t',
         price = 5000,
         category = 'sportsclassic',
@@ -271,7 +271,7 @@
     },
     gbkomodagt = {
         name = 'Komoda GT',
-        brand = 'Lampadati', 
+        brand = 'Lampadati',
         model = 'gbkomodagt',
         price = 5000,
         category = 'sportsclassic',
@@ -280,7 +280,7 @@
     },
     gbraidillon = {
         name = 'Raidillon',
-        brand = 'Toundra', 
+        brand = 'Toundra',
         model = 'gbraidillon',
         price = 5000,
         category = 'sportsclassic',
@@ -289,7 +289,7 @@
     },
     gbsidewinder = {
         name = 'Sidewinder',
-        brand = 'Maxwell', 
+        brand = 'Maxwell',
         model = 'gbsidewinder',
         price = 5000,
         category = 'sportsclassic',
@@ -298,7 +298,7 @@
     },
     gbturismogt = {
         name = 'Turismo GT',
-        brand = 'Grotti', 
+        brand = 'Grotti',
         model = 'gbturismogt',
         price = 5000,
         category = 'sportsclassic',
@@ -307,7 +307,7 @@
     },
     gbturismogts = {
         name = 'Turismo GTS',
-        brand = 'Grotti', 
+        brand = 'Grotti',
         model = 'gbturismogts',
         price = 5000,
         category = 'sportsclassic',
@@ -316,7 +316,7 @@
     },
     gbdominatorgsx = {
         name = 'Dominator GSX',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbdominatorgsx',
         price = 5000,
         category = 'muscle',
@@ -325,7 +325,7 @@
     },
     gbhades = {
         name = 'Hades',
-        brand = 'Dundreary', 
+        brand = 'Dundreary',
         model = 'gbhades',
         price = 5000,
         category = 'muscle',
@@ -334,7 +334,7 @@
     },
     gbtahomagt = {
         name = 'Tahoma GT',
-        brand = 'Declasse', 
+        brand = 'Declasse',
         model = 'gbtahomagt',
         price = 5000,
         category = 'muscle',
@@ -343,7 +343,7 @@
     },
     gbbriosof = {
         name = 'Brioso Fulmine',
-        brand = 'Grotti', 
+        brand = 'Grotti',
         model = 'gbbriosof',
         price = 5000,
         category = 'compacts',
@@ -352,7 +352,7 @@
     },
     gbclubxr = {
         name = 'Club XR',
-        brand = 'BF', 
+        brand = 'BF',
         model = 'gbclubxr',
         price = 5000,
         category = 'compacts',
@@ -361,7 +361,7 @@
     },
     gbirisz = {
         name = 'Iris Z',
-        brand = 'Bollokan', 
+        brand = 'Bollokan',
         model = 'gbirisz',
         price = 5000,
         category = 'compacts',
@@ -370,7 +370,7 @@
     },
     gbissimetro = {
         name = 'Issi Metro',
-        brand = 'Weeny', 
+        brand = 'Weeny',
         model = 'gbissimetro',
         price = 5000,
         category = 'compacts',
@@ -379,7 +379,7 @@
     },
     gbvivant = {
         name = 'Vivant',
-        brand = 'Bordeaux', 
+        brand = 'Bordeaux',
         model = 'gbvivant',
         price = 5000,
         category = 'compacts',
@@ -388,7 +388,7 @@
     },
     gbgresleystx = {
         name = 'Gresley STX',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbgresleystx',
         price = 5000,
         category = 'suv',
@@ -397,7 +397,7 @@
     },
     gbstarlight = {
         name = 'Starlight',
-        brand = 'Vulcar', 
+        brand = 'Vulcar',
         model = 'gbstarlight',
         price = 5000,
         category = 'suv',
@@ -406,7 +406,7 @@
     },
     gbsapphire = {
         name = 'Sapphire',
-        brand = 'Enus', 
+        brand = 'Enus',
         model = 'gbsapphire',
         price = 5000,
         category = 'coupes',
@@ -415,7 +415,7 @@
     },
     gbbisonstx = {
         name = 'Bison STX',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbbisonstx',
         price = 5000,
         category = 'vans',
@@ -424,7 +424,7 @@
     },
     gbboxboy = {
         name = 'Boxboy',
-        brand = 'Brute', 
+        brand = 'Brute',
         model = 'gbboxboy',
         price = 5000,
         category = 'vans',
@@ -433,7 +433,7 @@
     },
     gbboxboyft = {
         name = 'Boxboy Food Truck',
-        brand = 'Brute', 
+        brand = 'Brute',
         model = 'gbboxboyft',
         price = 5000,
         category = 'vans',
@@ -442,7 +442,7 @@
     },
     gbesperta = {
         name = 'Esperta',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbesperta',
         price = 5000,
         category = 'vans',
@@ -451,7 +451,7 @@
     },
     gbbisonhf = {
         name = 'Bison HF',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbbisonhf',
         price = 5000,
         category = 'offroad',
@@ -460,7 +460,7 @@
     },
     gblod4 = {
         name = 'LOD 4',
-        brand = 'Coil', 
+        brand = 'Coil',
         model = 'gblod4',
         price = 5000,
         category = 'offroad',
@@ -469,7 +469,7 @@
     },
     gbmojave = {
         name = 'Mojave',
-        brand = 'Karin', 
+        brand = 'Karin',
         model = 'gbmojave',
         price = 5000,
         category = 'offroad',
@@ -478,7 +478,7 @@
     },
     gbterrorizer = {
         name = 'Terrorizer',
-        brand = 'HVY', 
+        brand = 'HVY',
         model = 'gbterrorizer',
         price = 5000,
         category = 'offroad',
@@ -487,7 +487,7 @@
     },
     gbtaxiargento7f = {
         name = 'Argento 7F Taxi',
-        brand = 'Obey', 
+        brand = 'Obey',
         model = 'gbtaxiargento7f',
         price = 5000,
         category = 'service',
@@ -496,7 +496,7 @@
     },
     gbtaxieon = {
         name = 'Eon Taxi',
-        brand = 'Coil', 
+        brand = 'Coil',
         model = 'gbtaxieon',
         price = 5000,
         category = 'service',
@@ -505,7 +505,7 @@
     },
     gbtaxistanierle = {
         name = 'Stainer LE Taxi',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbtaxistanierle',
         price = 5000,
         category = 'service',
@@ -514,7 +514,7 @@
     },
     gbtaxistarlight = {
         name = 'Starlight Taxi',
-        brand = 'Vulcar', 
+        brand = 'Vulcar',
         model = 'gbtaxistarlight',
         price = 5000,
         category = 'service',
@@ -523,7 +523,7 @@
     },
     gbvoyagerg = {
         name = 'Voyager Trash Truck',
-        brand = 'MTL', 
+        brand = 'MTL',
         model = 'gbvoyagerg',
         price = 5000,
         category = 'service',
@@ -532,7 +532,7 @@
     },
     gbvoyager = {
         name = 'Voyager 6x4-T',
-        brand = 'MTL', 
+        brand = 'MTL',
         model = 'gbvoyager',
         price = 5000,
         category = 'commercial',
@@ -541,7 +541,7 @@
     },
     gbvoyager2 = {
         name = 'Voyager 4x2-T',
-        brand = 'MTL', 
+        brand = 'MTL',
         model = 'gbvoyager2',
         price = 5000,
         category = 'commercial',
@@ -550,7 +550,7 @@
     },
     gbvoyagerb = {
         name = 'Voyager 6x4-B',
-        brand = 'MTL', 
+        brand = 'MTL',
         model = 'gbvoyagerb',
         price = 5000,
         category = 'commercial',
@@ -559,7 +559,7 @@
     },
     gbvoyagerb2 = {
         name = 'Voyager 4x2-B',
-        brand = 'MTL', 
+        brand = 'MTL',
         model = 'gbvoyagerb2',
         price = 5000,
         category = 'commercial',
@@ -568,7 +568,7 @@
     },
     gbvoyagerh = {
         name = 'Voyager 6x2-H',
-        brand = 'MTL', 
+        brand = 'MTL',
         model = 'gbvoyagerh',
         price = 5000,
         category = 'commercial',
@@ -577,7 +577,7 @@
     },
     gbemsbisonstx = {
         name = 'Bison STX Ambulance',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbemsbisonstx',
         price = 5000,
         category = 'emergency',
@@ -586,7 +586,7 @@
     },
     gbemsesperta = {
         name = 'Esperta Ambulance',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbemsesperta',
         price = 5000,
         category = 'emergency',
@@ -595,7 +595,7 @@
     },
     gbfirevoyager = {
         name = 'Voyager Fire Truck',
-        brand = 'MTL', 
+        brand = 'MTL',
         model = 'gbfirevoyager',
         price = 5000,
         category = 'emergency',
@@ -604,7 +604,7 @@
     },
     gbpolbisonhf = {
         name = 'Bison HF Police',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbpolbisonhf',
         price = 5000,
         category = 'emergency',
@@ -613,7 +613,7 @@
     },
     gbpolbisonstx = {
         name = 'Bison STX Police',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbpolbisonstx',
         price = 5000,
         category = 'emergency',
@@ -622,7 +622,7 @@
     },
     gbpolcometcl = {
         name = 'Comet Classic Police',
-        brand = 'Pfister', 
+        brand = 'Pfister',
         model = 'gbpolcometcl',
         price = 5000,
         category = 'emergency',
@@ -631,7 +631,7 @@
     },
     gbpolcomets2r = {
         name = 'Comet S2R Police',
-        brand = 'Pfister', 
+        brand = 'Pfister',
         model = 'gbpolcomets2r',
         price = 5000,
         category = 'emergency',
@@ -640,7 +640,7 @@
     },
     gbpoldomgsx = {
         name = 'Dominator GSX Police',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbpoldomgsx',
         price = 5000,
         category = 'emergency',
@@ -649,7 +649,7 @@
     },
     gbpolprospero = {
         name = 'Prospero Police',
-        brand = 'Pegassi', 
+        brand = 'Pegassi',
         model = 'gbpolprospero',
         price = 5000,
         category = 'emergency',
@@ -658,7 +658,7 @@
     },
     gbpolsolace = {
         name = 'Solace Police',
-        brand = 'Dewbauchee', 
+        brand = 'Dewbauchee',
         model = 'gbpolsolace',
         price = 5000,
         category = 'emergency',
@@ -667,7 +667,7 @@
     },
     gbpolstanier = {
         name = 'Stainer LE Police',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbpolstanier',
         price = 5000,
         category = 'emergency',
@@ -676,7 +676,7 @@
     },
     gbpolstarlight = {
         name = 'Starlight Police',
-        brand = 'Vulcar', 
+        brand = 'Vulcar',
         model = 'gbpolstarlight',
         price = 5000,
         category = 'emergency',
@@ -685,7 +685,7 @@
     },
     gbpolsultanrsx = {
         name = 'Sultan RSX Police',
-        brand = 'Karin', 
+        brand = 'Karin',
         model = 'gbpolsultanrsx',
         price = 5000,
         category = 'emergency',
@@ -694,7 +694,7 @@
     },
     gbpoltahomagt = {
         name = 'Tahoma GT Police',
-        brand = 'Declasse', 
+        brand = 'Declasse',
         model = 'gbpoltahomagt',
         price = 5000,
         category = 'emergency',
@@ -703,7 +703,7 @@
     },
     gbpoltr3s = {
         name = 'TR3-S Police',
-        brand = 'Progen', 
+        brand = 'Progen',
         model = 'gbpoltr3s',
         price = 5000,
         category = 'emergency',
@@ -712,7 +712,7 @@
     },
     gbpolturismogt = {
         name = 'Turismo GT Police',
-        brand = 'Grotti', 
+        brand = 'Grotti',
         model = 'gbpolturismogt',
         price = 5000,
         category = 'emergency',
@@ -721,7 +721,7 @@
     },
     gbarcherpro2 = {
         name = 'Archer Pro II',
-        brand = 'Maibatsu', 
+        brand = 'Maibatsu',
         model = 'gbarcherpro2',
         price = 5000,
         category = 'sports',
@@ -730,7 +730,7 @@
     },
     gbargento2f = {
         name = 'Argento 2F',
-        brand = 'Obey', 
+        brand = 'Obey',
         model = 'gbargento2f',
         price = 5000,
         category = 'sports',
@@ -739,7 +739,7 @@
     },
     gbargento7fs = {
         name = 'Argento 7F Sportsback',
-        brand = 'Obey', 
+        brand = 'Obey',
         model = 'gbargento7fs',
         price = 5000,
         category = 'sports',
@@ -748,7 +748,7 @@
     },
     gbcheetahs = {
         name = 'Grotti Cheetah S',
-        brand = 'Grotti', 
+        brand = 'Grotti',
         model = 'gbcheetahs',
         price = 5000,
         category = 'super',
@@ -757,7 +757,7 @@
     },
     gbcometclf = {
         name = 'Comet Classic Florio',
-        brand = 'Pfister', 
+        brand = 'Pfister',
         model = 'gbcometclf',
         price = 5000,
         category = 'sportsclassic',
@@ -766,7 +766,7 @@
     },
     gbcomets1tf = {
         name = 'Comet S1 Turbo Florio',
-        brand = 'Pfister', 
+        brand = 'Pfister',
         model = 'gbcomets1tf',
         price = 5000,
         category = 'sportsclassic',
@@ -775,7 +775,7 @@
     },
     gbcyphergts = {
         name = 'Cypher GTS',
-        brand = 'Ubermacht', 
+        brand = 'Ubermacht',
         model = 'gbcyphergts',
         price = 5000,
         category = 'sports',
@@ -784,7 +784,7 @@
     },
     gbdelivere = {
         name = 'Deliver-E',
-        brand = 'Hijak', 
+        brand = 'Hijak',
         model = 'gbdelivere',
         price = 5000,
         category = 'commercial',
@@ -793,7 +793,7 @@
     },
     gbechelon = {
         name = 'Echelon',
-        brand = 'BF', 
+        brand = 'BF',
         model = 'gbechelon',
         price = 5000,
         category = 'sports',
@@ -802,7 +802,7 @@
     },
     gbechelons = {
         name = 'Echelon Sportsback',
-        brand = 'BF', 
+        brand = 'BF',
         model = 'gbechelons',
         price = 5000,
         category = 'sports',
@@ -811,7 +811,7 @@
     },
     gbelegyrh2 = {
         name = 'Elegy RH2',
-        brand = 'Annis', 
+        brand = 'Annis',
         model = 'gbelegyrh2',
         price = 5000,
         category = 'sportsclassic',
@@ -820,7 +820,7 @@
     },
     gbemssteed = {
         name = 'Steed Ambulance',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbemssteed',
         price = 5000,
         category = 'emergency',
@@ -829,7 +829,7 @@
     },
     gberotiq = {
         name = 'E-Rotiq',
-        brand = 'Bollokan', 
+        brand = 'Bollokan',
         model = 'gberotiq',
         price = 5000,
         category = 'suv',
@@ -838,7 +838,7 @@
     },
     gbesurfer = {
         name = 'e-Surfer',
-        brand = 'BF', 
+        brand = 'BF',
         model = 'gbesurfer',
         price = 5000,
         category = 'vans',
@@ -847,7 +847,7 @@
     },
     gbhedra = {
         name = 'Hedra',
-        brand = 'Vulcar', 
+        brand = 'Vulcar',
         model = 'gbhedra',
         price = 5000,
         category = 'sedans',
@@ -856,7 +856,7 @@
     },
     gbhedrakombi = {
         name = 'Hedra Kombi',
-        brand = 'Vulcar', 
+        brand = 'Vulcar',
         model = 'gbhedrakombi',
         price = 5000,
         category = 'sedans',
@@ -865,7 +865,7 @@
     },
     gbhurricane = {
         name = 'Hurricane',
-        brand = 'Brute', 
+        brand = 'Brute',
         model = 'gbhurricane',
         price = 5000,
         category = 'muscle',
@@ -874,7 +874,7 @@
     },
     gbimpalerdlx = {
         name = 'Impaler Deluxe',
-        brand = 'Declasse', 
+        brand = 'Declasse',
         model = 'gbimpalerdlx',
         price = 5000,
         category = 'muscle',
@@ -883,7 +883,7 @@
     },
     gbmochi = {
         name = 'Mochi',
-        brand = 'Annis', 
+        brand = 'Annis',
         model = 'gbmochi',
         price = 5000,
         category = 'compacts',
@@ -892,7 +892,7 @@
     },
     gbmugello = {
         name = 'Mugello',
-        brand = 'Grotti', 
+        brand = 'Grotti',
         model = 'gbmugello',
         price = 5000,
         category = 'super',
@@ -901,7 +901,7 @@
     },
     gbpoladmiral = {
         name = 'Admiral Police',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbpoladmiral',
         price = 5000,
         category = 'emergency',
@@ -910,7 +910,7 @@
     },
     gbpolargento7f = {
         name = 'Argento 7F Police',
-        brand = 'Obey', 
+        brand = 'Obey',
         model = 'gbpolargento7f',
         price = 5000,
         category = 'emergency',
@@ -919,7 +919,7 @@
     },
     gbpolbanshees = {
         name = 'Banshee S Police',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbpolbanshees',
         price = 5000,
         category = 'emergency',
@@ -928,7 +928,7 @@
     },
     gbpolclubxr = {
         name = 'Club XR Police',
-        brand = 'BF', 
+        brand = 'BF',
         model = 'gbpolclubxr',
         price = 5000,
         category = 'emergency',
@@ -937,7 +937,7 @@
     },
     gbpolechelon = {
         name = 'Echelon Police',
-        brand = 'BF', 
+        brand = 'BF',
         model = 'gbpolechelon',
         price = 5000,
         category = 'emergency',
@@ -946,7 +946,7 @@
     },
     gbpoleon = {
         name = 'Eon Police',
-        brand = 'Coil', 
+        brand = 'Coil',
         model = 'gbpoleon',
         price = 5000,
         category = 'emergency',
@@ -955,7 +955,7 @@
     },
     gbpolesperta = {
         name = 'Esperta Police',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbpolesperta',
         price = 5000,
         category = 'emergency',
@@ -964,7 +964,7 @@
     },
     gbpolgresley = {
         name = 'Gresley Police',
-        brand = 'Bravado', 
+        brand = 'Bravado',
         model = 'gbpolgresley',
         price = 5000,
         category = 'emergency',
@@ -973,7 +973,7 @@
     },
     gbpolhedra = {
         name = 'Hedra Police',
-        brand = 'Vulcar', 
+        brand = 'Vulcar',
         model = 'gbpolhedra',
         price = 5000,
         category = 'emergency',
@@ -982,7 +982,7 @@
     },
     gbpolimpaler = {
         name = 'Impaler Police',
-        brand = 'Declasse', 
+        brand = 'Declasse',
         model = 'gbpolimpaler',
         price = 5000,
         category = 'emergency',
@@ -991,7 +991,7 @@
     },
     gbpolmojave = {
         name = 'Mojave Police',
-        brand = 'Karin', 
+        brand = 'Karin',
         model = 'gbpolmojave',
         price = 5000,
         category = 'emergency',
@@ -1000,7 +1000,7 @@
     },
     gbpolscoutgsx = {
         name = 'Scout GSX Police',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbpolscoutgsx',
         price = 5000,
         category = 'emergency',
@@ -1009,7 +1009,7 @@
     },
     gbpolsentinelgts = {
         name = 'Sentinel GTS Police',
-        brand = 'Ubermacht', 
+        brand = 'Ubermacht',
         model = 'gbpolsentinelgts',
         price = 5000,
         category = 'emergency',
@@ -1018,7 +1018,7 @@
     },
     gbpolstanier = {
         name = 'Stainer LE Police',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbpolstanier',
         price = 5000,
         category = 'emergency',
@@ -1027,7 +1027,7 @@
     },
     gbpolsteedvan = {
         name = 'Steed Police',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbpolsteedvan',
         price = 5000,
         category = 'emergency',
@@ -1036,7 +1036,7 @@
     },
     gbpolterrorizer = {
         name = 'Terrorizer Police',
-        brand = 'HVY', 
+        brand = 'HVY',
         model = 'gbpolterrorizer',
         price = 5000,
         category = 'emergency',
@@ -1045,7 +1045,7 @@
     },
     gbretinueloz = {
         name = 'Retinue Lozspeed',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbretinueloz',
         price = 5000,
         category = 'sports',
@@ -1054,7 +1054,7 @@
     },
     gbromulus = {
         name = 'Romulus',
-        brand = 'Annis', 
+        brand = 'Annis',
         model = 'gbromulus',
         price = 5000,
         category = 'sports',
@@ -1063,7 +1063,7 @@
     },
     gbrumina = {
         name = 'Rumina',
-        brand = 'Annis', 
+        brand = 'Annis',
         model = 'gbrumina',
         price = 5000,
         category = 'sports',
@@ -1072,7 +1072,7 @@
     },
     gbscoutgsx = {
         name = 'Scout GSX',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbscoutgsx',
         price = 5000,
         category = 'suv',
@@ -1081,7 +1081,7 @@
     },
     gbsteedcrew = {
         name = 'Steed Crewmate',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbsteedcrew',
         price = 5000,
         category = 'vans',
@@ -1090,7 +1090,7 @@
     },
     gbsteedvan = {
         name = 'Steed',
-        brand = 'Vapid', 
+        brand = 'Vapid',
         model = 'gbsteedvan',
         price = 5000,
         category = 'vans',
@@ -1099,7 +1099,7 @@
     },
     gbtempestafs = {
         name = 'Tempesta Fuoristrada',
-        brand = 'Pegassi', 
+        brand = 'Pegassi',
         model = 'gbtempestafs',
         price = 5000,
         category = 'super',
@@ -1108,7 +1108,7 @@
     },
     gbvigerorat = {
         name = 'Vigero Rattler',
-        brand = 'Declasse', 
+        brand = 'Declasse',
         model = 'gbvigerorat',
         price = 5000,
         category = 'muscle',
@@ -1117,10 +1117,154 @@
     },
     gbzeitgeist = {
         name = 'Zeitgeist',
-        brand = 'Benefactor-Progen', 
+        brand = 'Benefactor-Progen',
         model = 'gbzeitgeist',
         price = 5000,
         category = 'super',
         type = 'automobile',
         hash = `gbzeitgeist`,
+    },
+    gbzr350 = {
+        name = 'ZR350',
+        brand = 'Annis',
+        model = 'gbzr350',
+        price = 5000,
+        category = 'sports',
+        type = 'automobile',
+        hash = `gbzr350`,
+    },
+    gbbuffalohf = {
+        name = 'Buffalo HF',
+        brand = 'Bravado',
+        model = 'gbbuffalohf',
+        price = 5000,
+        category = 'sports',
+        type = 'automobile',
+        hash = `gbbuffalohf`,
+    },
+    gbnexus1 = {
+        name = 'Nexus',
+        brand = 'Dinka',
+        model = 'gbnexus1',
+        price = 5000,
+        category = 'sports',
+        type = 'automobile',
+        hash = `gbnexus1`,
+    },
+    gbtokage = {
+        name = 'Tokage JDM',
+        brand = 'Dinka',
+        model = 'gbtokage',
+        price = 5000,
+        category = 'sports',
+        type = 'automobile',
+        hash = `gbtokage`,
+    },
+    gbtokage2 = {
+        name = 'Tokage USDM',
+        brand = 'Dinka',
+        model = 'gbtokage2',
+        price = 5000,
+        category = 'sports',
+        type = 'automobile',
+        hash = `gbtokage2`,
+    },
+    gbnobile = {
+        name = 'Nobile',
+        brand = 'Grotti',
+        model = 'gbnobile',
+        price = 5000,
+        category = 'super',
+        type = 'automobile',
+        hash = `gbnobile`,
+    },
+    gbzero = {
+        name = 'Zero',
+        brand = 'Grotti',
+        model = 'gbzero',
+        price = 5000,
+        category = 'super',
+        type = 'automobile',
+        hash = `gbzero`,
+    },
+    gbdice = {
+        name = 'Dice',
+        brand = 'Karin',
+        model = 'gbdice',
+        price = 5000,
+        category = 'sports',
+        type = 'automobile',
+        hash = `gbdice`,
+    },
+    gbkisairs = {
+        name = 'Kisai RS',
+        brand = 'Karin',
+        model = 'gbkisairs',
+        price = 5000,
+        category = 'sports',
+        type = 'automobile',
+        hash = `gbkisairs`,
+    },
+    gbshogun = {
+        name = 'Shogun',
+        brand = 'Karin',
+        model = 'gbshogun',
+        price = 5000,
+        category = 'sports',
+        type = 'automobile',
+        hash = `gbshogun`,
+    },
+    gblaner4fh = {
+        name = 'Laner 4FH',
+        brand = 'Obey',
+        model = 'gblaner4fh',
+        price = 5000,
+        category = 'sedans',
+        type = 'automobile',
+        hash = `gblaner4fh`,
+    },
+    gbtoreroxpr1 = {
+        name = 'Torero XPR-1',
+        brand = 'Pegassi',
+        model = 'gbtoreroxpr1',
+        price = 5000,
+        category = 'super',
+        type = 'automobile',
+        hash = `gbtoreroxpr1`,
+    },
+    gbmeteor = {
+        name = 'Meteor',
+        brand = 'Pfister',
+        model = 'gbmeteor',
+        price = 5000,
+        category = 'sports',
+        type = 'automobile',
+        hash = `gbmeteor`,
+    },
+    gbemerus = {
+        name = 'Emerus',
+        brand = 'Progen',
+        model = 'gbemerus',
+        price = 5000,
+        category = 'super',
+        type = 'automobile',
+        hash = `gbemerus`,
+    },
+    gbcaracaragsx = {
+        name = 'Caracara GSX',
+        brand = 'Vapid',
+        model = 'gbcaracaragsx',
+        price = 5000,
+        category = 'offroad',
+        type = 'automobile',
+        hash = `gbcaracaragsx`,
+    },
+    gbdomle = {
+        name = 'Dominator LE',
+        brand = 'Vapid',
+        model = 'gbdomle',
+        price = 5000,
+        category = 'muscle',
+        type = 'automobile',
+        hash = `gbdomle`,
     },
